@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'Pods-HBYBage_Tests' in project 'Pods'
+➜ Explicit dependency on target 'FBSnapshotTestCase' in project 'Pods'
+➜ Explicit dependency on target 'Pods-HBYBage_Example' in project 'Pods'
+Target 'Pods-HBYBage_Example' in project 'Pods'
+➜ Explicit dependency on target 'HBYBage' in project 'Pods'
+Target 'HBYBage' in project 'Pods' (no dependencies)
+Target 'FBSnapshotTestCase' in project 'Pods' (no dependencies)

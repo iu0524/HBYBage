@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HBYBage (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HBYBage (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HBYBage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HBYBage: 4e7e42a9c46964b3dd522752c4047e92d09b53e4
+
+PODFILE CHECKSUM: a6f44ad42909f186c7f4dd07d0e2fddd7d5017dc
+
+COCOAPODS: 1.13.0

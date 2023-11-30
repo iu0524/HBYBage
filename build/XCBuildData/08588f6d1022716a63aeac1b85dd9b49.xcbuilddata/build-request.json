@@ -1,0 +1,53 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9821ded137e13bbb9a6e2b86de32ed2bd2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f417838a0880c7527cd85d69a7e137e4"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98611f35f8c169edf06fd231757522adee"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98547614c1020f8b3b72fab53428348cf4"
+    }
+  ],
+  "containerPath" : "/Users/feng/HBYBage/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/feng/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/feng/Library/Developer/Xcode/DerivedData/Pods-fswkxxsoldjdbeemhopmbgjnjamj/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/feng/Library/Developer/Xcode/DerivedData/Pods-fswkxxsoldjdbeemhopmbgjnjamj/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

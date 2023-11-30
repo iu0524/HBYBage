@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_HBYBage_TestsVersionString[];
+ extern const double Pods_HBYBage_TestsVersionNumber;
+
+ const unsigned char Pods_HBYBage_TestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_HBYBage_Tests  PROJECT:Pods-1" "\n";
+ const double Pods_HBYBage_TestsVersionNumber __attribute__ ((used)) = (double)1.;
